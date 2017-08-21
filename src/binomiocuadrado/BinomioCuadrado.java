@@ -16,6 +16,7 @@ public class BinomioCuadrado {
      */
     public static void main(String[] args) {
         Calculos ObjetoCalculo = new Calculos();
+        
         ObjetoCalculo.setVisible(true);
     }
     
