@@ -1,5 +1,5 @@
 /**
- * @author: Andrés López Esquivel
+ * @author: Miranda Sámchez Maria Fernanda.
  * Grupo: 5IM8
  *  
 */
